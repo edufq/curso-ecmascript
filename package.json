@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "EduFQ",
-  "license": "ISC"
+  "license": "MIT",
+  "type": "module"
 }
